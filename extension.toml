@@ -1,0 +1,7 @@
+id = "kanagawa-monochrome"
+name = "Kanagawa Monochrome"
+version = "0.1.0"
+schema_version = 1
+authors = ["david.agung.satrio@gmail.com"]
+description = "A monochrome rework of Kanagawa. Muted and grey-tinted syntax colors for Zed editor"
+repository = "https://codeberg.org/davidas13/cet-kanagawa-monochrome.zed"
